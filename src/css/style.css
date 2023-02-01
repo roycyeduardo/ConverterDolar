@@ -1,0 +1,16 @@
+body {
+    background-color: #151515;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+    align-content: center;
+}
+
+span.error {
+    color: red;
+    font-size: 10pt;
+}
+span.sucess {
+    color: green;
+}
